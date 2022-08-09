@@ -13,3 +13,4 @@ try {
 } catch (error) {
   core.setFailed(error.message);
 }
+console.log("end of the function");
